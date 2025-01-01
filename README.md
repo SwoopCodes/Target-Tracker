@@ -1,6 +1,7 @@
 Sales Target Tracking app to help with calculating different Targets at work
 
 Screen with no inputs
+
 ![image](https://github.com/user-attachments/assets/3a1736cc-9734-4b2c-9d32-3e11cb242ac9)
 
 Screen upon inputing information
