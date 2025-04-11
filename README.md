@@ -1,17 +1,19 @@
 Sales Target Tracking app to help with calculating different Targets at work
 
 Screen with no inputs
+![Screenshot 2025-04-11 163945](https://github.com/user-attachments/assets/980e9d84-08f0-4f98-8ac2-3da9de831025)
 
-![image](https://github.com/user-attachments/assets/3a1736cc-9734-4b2c-9d32-3e11cb242ac9)
 
 Screen upon inputing information
-![image](https://github.com/user-attachments/assets/61584f01-943b-4823-881a-36e4a0c596e1)
+![Screenshot 2025-04-11 164114](https://github.com/user-attachments/assets/aa7387d7-eda0-48d9-a22c-53587671b5b2)
+
 
 Link to ZIP file containing Executable file:
 - Anti-Virus might detect this program as a trojan as it is not officially signed
 - This program is safe otherwise
   
-Link to download ZIP: [Target Calculator.zip](https://github.com/user-attachments/files/18286728/Target.Calculator.zip)
+Link to download ZIP: [Target-Calculator.zip](https://github.com/user-attachments/files/19709846/Target-Calculator.zip)
+
 
 To be added:
 - App Icon
